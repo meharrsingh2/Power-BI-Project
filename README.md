@@ -1,6 +1,6 @@
 # Amazon (E-Commerce) Sales Analysis | Power-BI-Project
 
-Dynamic Dashboard that is customized in a way that shows us data of each Country, City, with
+- Dynamic Dashboard that is customized in a way that shows us data of each Country, City, with
 Category of Product
 - Built KPI (key performance indicators) table and used different metrics to convey the analytics in an efficient
 Manner.
