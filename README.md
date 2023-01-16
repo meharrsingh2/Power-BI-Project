@@ -2,7 +2,7 @@
 
 - Dynamic Dashboard that is customized in a way that shows us data of each Country, City, with
 Category of Product
-- Built KPI (key performance indicators) table and used different metrics to convey the analytics in an efficient
+- Built various typles of visualizations and used different metrics to convey the analytics in an efficient
 Manner.
 - Segmented the Dataset provided and drew unique insights using Visualization tools in PowerBI
 - Tech Involved : PowerBI, Excel
