@@ -7,4 +7,4 @@ Manner.
 - Segmented the Dataset provided and drew unique insights using Visualization tools in PowerBI
 - Tech Involved : PowerBI, Excel
 
-I would reccomend to download the raw file from the above link https://github.com/meharrsingh2/Power-BI-Project/blob/main/Amazon.pbit to view the dashboard in PowerBI Desktop and use it Dynamically as GitHub doesn't allow us to view it here :)
+I would reccomend to download the raw file from the above link https://github.com/meharrsingh2/Power-BI-Project/blob/main/Amazon(E-Commerce%20Analysis).pbix to view the dashboard in PowerBI Desktop and use it Dynamically as GitHub doesn't allow us to view it here :)
